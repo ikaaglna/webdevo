@@ -1,0 +1,13 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+.logo {
+    padding-left: 50px;
+    font-weight: 800px;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Rancho', cursive;
+}
